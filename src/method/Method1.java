@@ -9,7 +9,7 @@ public class Method1 {
 
         int a2 = 3;
         int b2 = 4;
-        int sum2 = a1 + b1;
+        int sum2 = a2 + b2;
         System.out.println(a2 + " + " + b2 + " = " + sum2);
 
         int a3 = 5;
